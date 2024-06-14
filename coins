@@ -422,10 +422,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -2177,10 +2177,10 @@
     },
     "derivation_path": "m/44'/714'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -3351,10 +3351,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -3525,10 +3525,10 @@
     },
     "derivation_path": "m/44'/714'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -3607,10 +3607,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -3844,7 +3844,7 @@
       }
     },
     "derivation_path": "m/44'/714'"
-  },  
+  },
   {
     "coin": "DPC",
     "name": "dualpowecoin",
@@ -3864,7 +3864,7 @@
       "type": "UTXO"
     }
   },
-    {
+  {
     "coin": "DIAC",
     "name": "diabasecore",
     "fname": "Diabase",
@@ -4616,10 +4616,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -4660,10 +4660,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 90000,
-        "erc20_payment": 150000,
-        "erc20_receiver_spend": 120000,
-        "erc20_sender_refund": 120000
+      "eth_send_erc20": 90000,
+      "erc20_payment": 150000,
+      "erc20_receiver_spend": 120000,
+      "erc20_sender_refund": 120000
     }
   },
   {
@@ -5583,10 +5583,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -5645,10 +5645,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -5670,10 +5670,10 @@
     },
     "derivation_path": "m/44'/9000'",
     "gas_limit": {
-        "eth_send_erc20": 60000,
-        "erc20_payment": 120000,
-        "erc20_receiver_spend": 90000,
-        "erc20_sender_refund": 90000
+      "eth_send_erc20": 60000,
+      "erc20_payment": 120000,
+      "erc20_receiver_spend": 90000,
+      "erc20_sender_refund": 90000
     }
   },
   {
@@ -5737,10 +5737,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -5909,10 +5909,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -8803,10 +8803,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -9296,10 +9296,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -10299,10 +10299,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -11330,10 +11330,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -11622,10 +11622,10 @@
     },
     "derivation_path": "m/44'/9000'",
     "gas_limit": {
-        "eth_send_erc20": 60000,
-        "erc20_payment": 120000,
-        "erc20_receiver_spend": 90000,
-        "erc20_sender_refund": 90000
+      "eth_send_erc20": 60000,
+      "erc20_payment": 120000,
+      "erc20_receiver_spend": 90000,
+      "erc20_sender_refund": 90000
     }
   },
   {
@@ -11665,10 +11665,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -12198,10 +12198,10 @@
     },
     "derivation_path": "m/44'/714'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -12298,10 +12298,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -12456,10 +12456,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -12500,10 +12500,10 @@
     },
     "derivation_path": "m/44'/9000'",
     "gas_limit": {
-        "eth_send_erc20": 60000,
-        "erc20_payment": 120000,
-        "erc20_receiver_spend": 90000,
-        "erc20_sender_refund": 90000
+      "eth_send_erc20": 60000,
+      "erc20_payment": 120000,
+      "erc20_receiver_spend": 90000,
+      "erc20_sender_refund": 90000
     }
   },
   {
@@ -12543,10 +12543,10 @@
     },
     "derivation_path": "m/44'/714'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -12729,7 +12729,7 @@
       "homepage": "https://viacoin.org"
     }
   },
-  { 
+  {
     "coin": "VIA-segwit",
     "name": "viacoin",
     "fname": "Viacoin",
@@ -12738,7 +12738,7 @@
     "pubtype": 71,
     "p2shtype": 33,
     "wiftype": 199,
-    "txfee": 100000, 
+    "txfee": 100000,
     "dust": 54600,
     "required_confirmations": 7,
     "mature_confirmations": 3600,
@@ -12830,7 +12830,7 @@
     "derivation_path": "m/44'/141'",
     "trezor_coin": "Komodo"
   },
-    {
+  {
     "coin": "VPRM",
     "sign_message_prefix": "Komodo Signed Message:\n",
     "asset": "VPRM",
@@ -12988,10 +12988,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -13229,10 +13229,10 @@
     },
     "derivation_path": "m/44'/966'",
     "gas_limit": {
-        "eth_send_erc20": 55000,
-        "erc20_payment": 110000,
-        "erc20_receiver_spend": 80000,
-        "erc20_sender_refund": 80000
+      "eth_send_erc20": 55000,
+      "erc20_payment": 110000,
+      "erc20_receiver_spend": 80000,
+      "erc20_sender_refund": 80000
     }
   },
   {
@@ -13565,6 +13565,23 @@
       }
     },
     "derivation_path": "m/44'/714'"
+  },
+  {
+    "coin": "YDA",
+    "name": "YadaCoin",
+    "fname": "YadaCoin",
+    "rpcport": 80,
+    "mm2": 1,
+    "required_confirmations": 5,
+    "avg_blocktime": 600,
+    "protocol": {
+      "type": "UTXO"
+    },
+    "derivation_path": "m/44'/657'",
+    "links": {
+      "github": "https://github.com/pdxwebdev/yadacoin",
+      "homepage": "http://yadacoin.io"
+    }
   },
   {
     "coin": "YFI-AVX20",
@@ -15254,68 +15271,68 @@
     "mm2": 1,
     "wallet_only": false,
     "is_testnet": true,
-    "protocol":{
-        "type":"TENDERMINT",
-        "protocol_data": {
-            "decimals": 6,
-            "denom": "unucl",
-            "account_prefix": "nuc",
-            "chain_registry_name": "nucleus",
-            "chain_id": "nucleus-3"
-        }
+    "protocol": {
+      "type": "TENDERMINT",
+      "protocol_data": {
+        "decimals": 6,
+        "denom": "unucl",
+        "account_prefix": "nuc",
+        "chain_registry_name": "nucleus",
+        "chain_id": "nucleus-3"
+      }
     },
     "derivation_path": "m/44'/1'"
   },
   {
-    "coin":"IRISTEST-IBC_NUCLEUSTEST",
+    "coin": "IRISTEST-IBC_NUCLEUSTEST",
     "avg_blocktime": 5,
     "name": "iristest-ibc-nucleus-test",
     "fname": "Iris Test",
     "mm2": 1,
     "wallet_only": false,
     "is_testnet": true,
-    "protocol":{
-        "type":"TENDERMINTTOKEN",
-        "protocol_data": {
-            "platform": "NUCLEUSTEST",
-            "decimals": 6,
-            "denom": "ibc/F7F28FF3C09024A0225EDBBDB207E5872D2B4EF2FB874FE47B05EF9C9A7D211C"
-        }
+    "protocol": {
+      "type": "TENDERMINTTOKEN",
+      "protocol_data": {
+        "platform": "NUCLEUSTEST",
+        "decimals": 6,
+        "denom": "ibc/F7F28FF3C09024A0225EDBBDB207E5872D2B4EF2FB874FE47B05EF9C9A7D211C"
+      }
     },
     "derivation_path": "m/44'/1'"
   },
   {
-    "coin":"ATOM-IBC_NUCLEUSTEST",
+    "coin": "ATOM-IBC_NUCLEUSTEST",
     "avg_blocktime": 5,
     "name": "cosmos-ibc-nucleus-test",
     "fname": "Cosmos",
     "mm2": 1,
     "wallet_only": false,
     "is_testnet": true,
-    "protocol":{
-        "type":"TENDERMINTTOKEN",
-        "protocol_data": {
-            "platform": "NUCLEUSTEST",
-            "decimals": 6,
-            "denom": "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E"
-        }
+    "protocol": {
+      "type": "TENDERMINTTOKEN",
+      "protocol_data": {
+        "platform": "NUCLEUSTEST",
+        "decimals": 6,
+        "denom": "ibc/9117A26BA81E29FA4F78F57DC2BD90CD3D26848101BA880445F119B22A1E254E"
+      }
     }
   },
   {
-    "coin":"OSMO-IBC_NUCLEUSTEST",
+    "coin": "OSMO-IBC_NUCLEUSTEST",
     "avg_blocktime": 5,
     "name": "cosmos-ibc-nucleus-test",
     "fname": "Osmosis",
     "mm2": 1,
     "wallet_only": false,
     "is_testnet": true,
-    "protocol":{
-        "type":"TENDERMINTTOKEN",
-        "protocol_data": {
-            "platform": "NUCLEUSTEST",
-            "decimals": 6,
-            "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23"
-        }
+    "protocol": {
+      "type": "TENDERMINTTOKEN",
+      "protocol_data": {
+        "platform": "NUCLEUSTEST",
+        "decimals": 6,
+        "denom": "ibc/47BD209179859CDE4A2806763D7189B6E6FE13A17880FE2B42DE1E6C1E329E23"
+      }
     }
   },
   {

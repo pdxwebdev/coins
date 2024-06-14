@@ -1,0 +1,12 @@
+[
+  {
+    "url": "electrum.yadacoin.io:50002",
+    "protocol": "SSL",
+    "contact": [
+      {
+        "discord": "matt.yadacoin.io"
+      }
+    ],
+    "ws_url": "electrum.yadacoin.io:50004"
+  }
+]
