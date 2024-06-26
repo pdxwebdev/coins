@@ -13572,6 +13572,8 @@
     "fname": "YadaCoin",
     "rpcport": 80,
     "mm2": 1,
+    "pubtype": 0,
+    "wiftype": 128,
     "required_confirmations": 5,
     "avg_blocktime": 600,
     "protocol": {
